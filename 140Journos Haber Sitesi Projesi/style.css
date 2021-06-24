@@ -1,0 +1,67 @@
+
+nav{
+    background-color: #190F6E;
+}
+
+.fa{
+    color:white
+}
+
+nav span{
+    margin-right: 20px;
+}
+
+nav button{
+    background-color: #190F6E;;
+}
+
+.navbar .logo{
+    min-height: 150px;
+}
+
+.card-img-overlay{
+    position: absolute;
+    margin-top: 250px;
+}
+
+.card-img-overlay h1{
+    font-size: 30px;
+}
+
+.ustalansol{
+    margin-top: -5px;
+    z-index: -999;
+}
+
+.ustalansag{
+    margin-top: -5px;
+    margin-left: -30px;
+    padding: 0px;
+    z-index: -999;
+}
+
+.usthaberboyut{
+    height: 390px;
+}
+
+.altsolresim{
+    max-height: 400px;
+}
+
+.altsolicerik{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.altsagicerik{
+    margin-top: 10px;
+}
+
+.altsagresim{
+    margin-left: -32px;
+    height: 400px;
+}
+
+.yazikaydirma{
+    margin-left: -280px;
+}
